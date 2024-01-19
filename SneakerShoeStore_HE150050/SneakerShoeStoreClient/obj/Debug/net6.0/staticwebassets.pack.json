@@ -1,0 +1,785 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SneakerShoeStoreClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SneakerShoeStoreClient.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\adidas1.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas1.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\adidas2.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas2.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\adidas3.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas3.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\adidasalpha.jpg",
+      "PackagePath": "staticwebassets\\images\\adidasalpha.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\adidassuper.jpg",
+      "PackagePath": "staticwebassets\\images\\adidassuper.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\nike2.jpg",
+      "PackagePath": "staticwebassets\\images\\nike2.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\nike3.jpg",
+      "PackagePath": "staticwebassets\\images\\nike3.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\nikeair.jpg",
+      "PackagePath": "staticwebassets\\images\\nikeair.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\nikeairforce1.jpg",
+      "PackagePath": "staticwebassets\\images\\nikeairforce1.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\nikemax.jpg",
+      "PackagePath": "staticwebassets\\images\\nikemax.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\puma1.jpg",
+      "PackagePath": "staticwebassets\\images\\puma1.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\puma2.jpg",
+      "PackagePath": "staticwebassets\\images\\puma2.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\images\\puma3.jpg",
+      "PackagePath": "staticwebassets\\images\\puma3.jpg"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\FPT\\semester8 - Summer2023\\PRN231\\Project\\SneakerShoeStore_HE150050\\SneakerShoeStoreClient\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SneakerShoeStoreClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SneakerShoeStoreClient.props",
+      "PackagePath": "build\\SneakerShoeStoreClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SneakerShoeStoreClient.props",
+      "PackagePath": "buildMultiTargeting\\SneakerShoeStoreClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SneakerShoeStoreClient.props",
+      "PackagePath": "buildTransitive\\SneakerShoeStoreClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

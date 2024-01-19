@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SneakerShoeStoreClient
+build_property.RootNamespace = SneakerShoeStoreClient
+build_property.ProjectDir = E:\FPT\semester8 - Summer2023\PRN231\Project\SneakerShoeStore_HE150050\SneakerShoeStoreClient\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\FPT\semester8 - Summer2023\PRN231\Project\SneakerShoeStore_HE150050\SneakerShoeStoreClient
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Carts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Carts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Carts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Carts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Carts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Orders/MyOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXE15T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/ProductSizes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNpemVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/ProductSizes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNpemVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/ProductSizes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNpemVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/ProductSizes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNpemVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/ProductSizes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNpemVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Profile/ChangePass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxDaGFuZ2VQYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Shop/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/FPT/semester8 - Summer2023/PRN231/Project/SneakerShoeStore_HE150050/SneakerShoeStoreClient/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p0o99hvxdt

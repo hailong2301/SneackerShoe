@@ -1,0 +1,276 @@
+﻿@model IEnumerable<BusinessObject.Models.OrderDetail>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Shoppers &mdash; Colorlib e-Commerce Template</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700">
+    <link rel="stylesheet" href="~/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/css/jquery-ui.css">
+    <link rel="stylesheet" href="~/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css/owl.theme.default.min.css">
+
+
+    <link rel="stylesheet" href="~/css/aos.css">
+
+    <link rel="stylesheet" href="~/css/style.css">
+
+</head>
+<body>
+
+    <div class="site-wrap">
+        <header class="site-navbar" role="banner">
+            <div class="site-navbar-top">
+                <div class="container">
+                    <div class="row align-items-center">
+
+                        <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
+                            <form asp-controller="Shop" asp-action="Index" method="get">
+                                @*   <span class="icon icon-search2"></span>*@
+                                <div class="form-group" style="display:flex">
+                                    <input type="text" name="search" class="form-control border-0" placeholder="Search">
+                                    <input type="submit" value="Search" style="width:70px" />
+                                </div>
+                            </form>
+                        </div>
+
+                        <div class="col-12 mb-3 mb-md-0 col-md-4 order-1 order-md-2 text-center">
+                            <div class="site-logo">
+                                <a asp-controller="Shop" asp-action="Index" class="js-logo-clone">Shoppers</a>
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-md-4 order-3 order-md-3 text-right">
+                            <div class="site-top-icons">
+                                <ul>
+                                    @if (ViewBag.user == null)
+                                    {
+                                        <li><a asp-controller="Login" asp-action="Index"><span>Login</span></a></li>
+                                        <li><a asp-controller="Register" asp-action="Index"><span>Register</span></a></li>
+                                    }
+                                    else
+                                    {
+                                        <li><a asp-controller="Profile" asp-action="Index" asp-route-id="@ViewBag.userId"><span class="icon icon-person"></span></a></li>
+                                        <li><a asp-controller="Orders" asp-action="MyOrder" asp-route-userId="@ViewBag.userId"><span class="fas fa-bars"></span></a></li>
+                                        <li>
+                                            <a asp-controller="Carts" asp-action="Index" asp-route-id="@ViewBag.userId" class="site-cart">
+                                                <span class="icon icon-shopping_cart"></span>
+                                                @*<span class="count">2</span>*@
+                                            </a>
+                                        </li>
+
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Logout" asp-action="Index">Logout(@ViewBag.user)</a>
+
+                                    }
+
+                                    @*           <li><a href="#"><span class="icon icon-heart-o"></span></a></li>
+                                    <li>
+                                    <a href="cart.html" class="site-cart">
+                                    <span class="icon icon-shopping_cart"></span>
+                                    <span class="count">2</span>
+                                    </a>
+                                    </li>*@
+                                    <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <nav class="site-navigation text-right text-md-center" role="navigation">
+                <div class="container">
+                    <ul class="site-menu js-clone-nav d-none d-md-block">
+
+                        <li class="active"><a asp-controller="Shop" asp-action="Index">Shop</a></li>
+
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <h1 style="color:mediumpurple;text-align:center">Order Detail </h1>
+        <table class="table">
+    <thead>
+        <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Order)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Product)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Size)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Price)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Quantity)
+                    </th>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.CreateDate)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Amount)
+                    </th>
+                   
+         
+           
+         
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.OrderId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Product.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Size.SizeNumber)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Quantity)
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CreateDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Amount)
+                        </td>
+          
+        </tr>
+}
+    </tbody>
+</table>
+
+        
+    </div>
+
+    <script src="~/js/jquery-3.3.1.min.js"></script>
+    <script src="~/js/jquery-ui.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/owl.carousel.min.js"></script>
+    <script src="~/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/js/aos.js"></script>
+
+    <script src="~/js/main.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreateDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Amount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Product)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Size)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size.SizeId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderDetailId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderDetailId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderDetailId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+*@
